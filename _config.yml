@@ -35,6 +35,7 @@ collections:
     permalink: /:collection/:path
     output: true
   travel:
+    permalink: /:collection/:path
     output: true
 
 # Exclude from processing.
