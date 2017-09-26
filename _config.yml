@@ -30,6 +30,12 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+collections:
+  books:
+    permalink: /:collection/:path
+    output: true
+  travel:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
