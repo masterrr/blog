@@ -11,5 +11,5 @@ permalink: silence-project-4-ru.html
 
 Таргет: г. Минск.
 
-Подписывайтесь на мои истории: [https://instagram.com/dmitry_kurilo](instagram.com/dmitry_kurilo).
+Подписывайтесь на мои истории: [instagram.com/dmitry_kurilo](instagram://user?username=dmitry_kurilo).
 
