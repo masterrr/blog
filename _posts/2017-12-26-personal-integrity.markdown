@@ -52,7 +52,7 @@ It's *fine* not to share information to level 3 from levels 2 or 1, but it's a *
 
 Put differently, you should work on improving integrity within buckets first and do your best to stay coherent across the whole funnel which is, of course, narrowing down, starting with the "Level 1 You" on top. 
 
-Example of a bad integrity would be a habit of employing complex privacy rules for content distribution on social media, especially across buckets, e.g. you share your photo with 'public' mode, excluding some or your friends and sister. 
+Example of a bad integrity would be a habit of employing complex privacy rules for content distribution on social media, especially across buckets, e.g. you share your photo with 'public' mode, excluding one of your friends and sister. 
 
 
 
