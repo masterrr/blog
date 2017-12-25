@@ -7,7 +7,10 @@ categories: selfdev
 
 _We say what we mean and we mean what we say._
 
-On this canvas, I define 'personal integrity' term I do my best to conform to, as well as use cases and exercises on how to improve the integrity. 
+
+On this canvas I define __personal integrity__ term I do my best to personally conform to, as well as use cases and exercises to improve it.
+
+<center><img src="/assets/integrity.png" width="100px" height="100px"></center>
 
 
 ### What is it?
@@ -67,7 +70,7 @@ Mentally place a person you're referring to in a discussion with someone just in
 
 **Check #2** (one only for people privacy layer)
 
-Imagine having words you're saying printed on the headlines of NY times or any other major newspaper tomorrow. Do you feel weird? 
+Imagine having words you're saying printed on the headlines of NY times or any other major newspaper tomorrow. Do you feel weird?
 
 
 
