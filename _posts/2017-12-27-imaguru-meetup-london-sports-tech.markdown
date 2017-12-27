@@ -7,7 +7,7 @@ categories: event
 
 I'll be conducting a meetup with a Minsk running school 'LetsRun' on London sports scene, how I approach sports and combine it with working at FB after I moved there from MSQRD here in Belarus.
 
-Come by to say hi and let's learn, discuss and imagine things and finally improve our sport and work ethics!
+Come by to say hi and let's learn, discuss and imagine things, finally improving our both sport and work ethics!
 
 ## Toot!!1
 
