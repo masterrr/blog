@@ -7,7 +7,7 @@ categories: event
 
 ## Update: Event Happened in the Past 
 
-[Presentation (.PDF, 66.6MB)](https://www.dropbox.com/s/ft34ojf8vanj3r1/letsrun_sport_work_v1.pdf) I used during the event. 
+[Presentation (.PDF, 65MB)](https://www.dropbox.com/s/wh49xha73pm6xrn/letsrun_sport_work_v2.pdf) I used during the event. 
 
 <br><br><br>
 
