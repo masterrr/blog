@@ -15,11 +15,11 @@ My personal rating: 9 out of 10.
 
 **📖 Summary**
 
-The book made an impact on me by re-inforcing my knowledge that talent, IQ are not the most important things to succeed, effort with a few additions aka grit is. 
+The book made an impact on me by reinforcing my knowledge that talent, IQ are not the most important things to succeed, effort with a few additions aka grit is. 
 
 Not only it tells you what is important, it also tells how to unlock these important systems in your life to better shape your thinking around passion, goals and judgements. What's the best way to grow yourself as a gritty person and help others whether it's your company or family to do the same.
 
-The book is filled with studies and insightful data to back-up statements. 
+The book is filled with studies and insightful data to back statements up. 
 
 
 **⌥ P.S.** Fast interactive check: you can tell your current grit score from Angela's website [https://angeladuckworth.com/grit-scale/](https://angeladuckworth.com/grit-scale/)
