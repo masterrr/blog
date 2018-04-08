@@ -9,7 +9,7 @@ Just completed a very short course by Tony Schwartz on **Managing Your Energy fo
 
 ![cert](https://i.imgur.com/1rqEqwI.jpg)
 
-My notes which can be of use for you:
+My notes which can be of use for you, 4 zones of life to take care of:
 
 * Physical
   * Sleep
