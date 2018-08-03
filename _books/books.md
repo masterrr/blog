@@ -10,10 +10,17 @@ TBU
 
 ## Books I read
 
+### 2018
+
+* Dr. Panda — The Circadian Code
+* Yuval Noah Harari — Sapiens: A Brief History of Humankind
+* Satya Nadella — Hit Refresh
+* Dave Gray — Liminal Thinking
+* Seneca — The Tao of Seneca: Practical Letters from a Stoic Master (Volume 1)
+
 ### 2017
 
 * Linda Torczon and Margaret E. Cooper — Engineering a Compiler
-* Yuval Noah Harari — Sapiens: A Brief History of Humankind
 * Haruki Murakami — What I Talk About When I Talk About Running
 * Travis Macy — The Ultra Mindset
 
