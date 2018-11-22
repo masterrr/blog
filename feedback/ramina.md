@@ -4,7 +4,7 @@ We went to a boutique in central London where she handled all exchanges with sta
 
 I was in a little hurry when we were finishing up and I had yet to buy socks to match my style, Ramina blazingly fast solved this by going on their own to nearby shop and buying items I had to buy while I was finishing up with shoes.  
 
-I did and I will contact her when I need more style in my life. 
+I did and I will contact her when I crave more style in my life. 
 
 Dmitry Kurilo
 hello@dmitrykurilo.com
