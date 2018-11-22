@@ -6,5 +6,5 @@ I was in a little hurry when we were finishing up and I had yet to buy socks to 
 
 I did and I will contact her when I need more style in my life. 
 
-Dmitrij Kurilo
+Dmitry Kurilo
 hello@dmitrykurilo.com
