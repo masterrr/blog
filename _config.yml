@@ -39,8 +39,9 @@ collections:
   travel:
     permalink: /:collection/:path
     output: true
-  feedback:
-    output: false
+
+include:
+- feedback
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
