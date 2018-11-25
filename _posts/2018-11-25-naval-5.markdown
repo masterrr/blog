@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Naval Ravikant 5th Periscope"
+date:   2018-11-25 13:42:44 +0000
+categories: food recepie
+---
+
+I'm a fan of Naval Ravikant periscopes and took an effort to mirror his fifth periscope to the youtube channel, watch and take some notes to publish right here. 
+
+### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eaVA7CliFjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Notes
+
+<img src="assets/naval/5.jpg">
+
+
+
+*
