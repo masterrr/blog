@@ -11,10 +11,7 @@ I'm a fan of Naval Ravikant periscopes and took an effort to mirror his fifth pe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eaVA7CliFjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 ### Notes
 
 <img src="assets/naval/5.jpg">
-
-
-
-*
