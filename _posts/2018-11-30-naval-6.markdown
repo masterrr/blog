@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Naval Ravikant 6th Periscope"
+date:   2018-11-30 23:19:00 +0000
+categories: learning
+---
+
+
+Following Naval's [5th periscope](/naval-5/) notes I'm posting more for 6th periscope which is just a continuation due to the 5th periscope stream breakage.
+
+### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6sbCWjMSEJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+### Notes
+
+<img src="assets/naval/6.jpg">
