@@ -18,7 +18,7 @@ MSQRD received immense traction and reached over 50 million downloads. During it
 
 In 2016, entered and won the contest "Startup Battle 2016" with AI-powered app "Virtz".
 
-He moved to London to engineer AR/VR at Facebook in 2017, graduating with a Bachelors in Computer Science the same year. MSQRD achieved its success while Dmitrij was still attending university.
+He moved to London in 2017 to engineer  AR/VR at Facebook. Graduated with a Bachelors in Computer Science the same year. MSQRD achieved its success while Dmitrij was still attending university.
 
 In 2019, Dmitrij is recognized as an Exceptional Talent in Digital Technology by the Tech Nation and the UK Government. 
 
