@@ -1,4 +1,6 @@
 ---
+title: Health Protocol
+layout: default
 permalink: /health/protocol
 ---
 
