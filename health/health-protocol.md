@@ -1,7 +1,7 @@
 ---
 title: Health
 layout: default
-permalink: /health/protocol/
+permalink: /health/
 ---
 
 # Health Protocol
