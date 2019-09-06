@@ -6,6 +6,13 @@ permalink: /health/
 
 # Health Protocol
 
+This protocol has been based on 15+ blood samples and functional tests I've took across 2017–2019 years. I believe the food part benefits most people, while supplement part is tailored towards my body, so re-evaluate for yourself. 
+
+
+The main idea behind the protocol is to reduce glucose/insulin spikes while getting the wide range of nutritents. 
+
+As in everything: the chronic is bad. Low glucose levels _all the time_ I believe is chronic. The nature in the wild _sometimes_ (1-3 times a month, not every 2 hours like we eat sugars) supplies lots of sugars at once (found lucky honey/fruit field spot!), hence from time to time I practice mimicking this by eating lots of fruit/berries/sugar at once to spike your glucose and insulin to make sure body knows what it is. 98% of the time — the Food Protocol! 
+
 ## Food Protocol
 
 1. Meat (priority: sous vide, boiled, grill)
@@ -61,8 +68,8 @@ Supplements:
 6. Telmisartan
 7. Taurin
 8. K2 Vitamin
-
-
+9. Selenium
+10. Iodinium
 
 ## Fasting
 
