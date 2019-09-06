@@ -6,6 +6,8 @@ permalink: /health/
 
 # Health Protocol
 
+__Last updated: September 2019__
+
 This protocol has been based on 15+ blood samples and functional tests I've took across 2017–2019 years. I believe the food part benefits most people, while supplement part is tailored towards my body, so re-evaluate for yourself. 
 
 
