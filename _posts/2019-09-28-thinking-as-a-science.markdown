@@ -52,7 +52,7 @@ This is a review and notes of Henry Hazlitt's "Thinking as a Science".
 
 If the problem is impossible to solve, leave it for a day, week, month, year progressively and keep coming back to it until solved. Forcing the mind to crack the problem is similar to creating waves on the sea — thoughts will be gone as birds from the water surface.
 
-### Hard Questions Examples
+### Complex Questions Bank
 1. Does the society shape people's characters of people's characters shape the society? 
 2. What is the purpose of war? 
 
@@ -89,5 +89,7 @@ Each word we use is just a concept. When I say "phone", today I mean iPhone and 
 ## Next-up reading recommended
 
 1) Herbert Spencer's "First Principles"
+
 2) Collection: Sir John Lubbock' "One hundred best books"
+
 3) Collection: Frank Parson's "The world's best books"
