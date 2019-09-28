@@ -25,6 +25,7 @@ If the problem is impossible to solve, leave it for a day, week, month, year pro
 1. Does the society shape people's characters of people's characters shape the society? 
 2. What is the purpose of war? 
 
+<br>
 # Reading
 ## Techniques
 
@@ -32,14 +33,14 @@ If the problem is impossible to solve, leave it for a day, week, month, year pro
 
 * In the middle of the author's thought, stop reading and try to guess what's the author is about to say next. Anticipate and see if you are on the mark. 
 
-
-## Picks
-
-* No good book is going to offset bad books consumption. Food analogy: no nutritious food is going to offset junk you've eaten. There is no way back so pick carefully. 
-
 * What a waste of time is when no understanding is made on every thought written by the author by labeling such an approach "waste of time".
 
 
+## Picking what to read
+
+* No good book is going to offset bad books consumption. Food analogy: no nutritious food is going to offset junk you've eaten. There is no way back so pick carefully. 
+
+<br>
 # Writing
 
 ## Techniques 
