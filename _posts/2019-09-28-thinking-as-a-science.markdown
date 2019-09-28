@@ -11,37 +11,43 @@ This is a review and notes of Henry Hazlitt's "Thinking as a Science".
 
 ## Techniques
 
-* Spend specifically allocated time to think about a hard topic. Train the mind on hard questions;
-
-* Writing when thinking helps structure the thought, eliminate leaps; to increase the bandwidth, talk the thoughts and draw them on paper.
+* Spend allocated time to think about a given hard topic
+* Understand beforehand why it is important than all other topics for n minutes
+* Train mind on hard questions - to box to get good at boxing
+* Write to structure the thought and eliminate leaps
+* High-bandwith increase through talking the thoughts out-loud, drawing
 
 ### On the impossibility
 
-If the task is impossible to solve, leave it for a day, week, month, year progressively and keep coming back to it until solved. Forcing the mind to crack the problem is similar to creating waves on the sea — beautiful birds-thoughts will be gone until it's calmed down. 
+If the problem is impossible to solve, leave it for a day, week, month, year progressively and keep coming back to it until solved. Forcing the mind to crack the problem is similar to creating waves on the sea — thoughts will be gone as birds from the water surface.
 
 ### Hard Questions Examples
 1. Does the society shape people's characters of people's characters shape the society? 
 2. What is the purpose of war? 
 
-
 # Reading
 ## Techniques
 
-* If a book presents questions or conclusion at the end of each chapter - start with them. Answer these questions using your own thinking, then go on to read the chapter and see if you've been correct and how presented information correlates with what you thought. 
+* If a book presents questions or conclusion at the end of each chapter - begin with it. Answer questions using your own mind, then go on to read the chapter and see if you've been correct and in what way presented information correlates with your outcomes.
 
-* In the middle of the thought in the book, stop reading and try to guess what's the author is going to say next. Anticipate and see if you are right. 
+* In the middle of the author's thought, stop reading and try to guess what's the author is about to say next. Anticipate and see if you are on the mark. 
 
 
 ## Picks
 
-* No good book is going to offset bad books. Like with food: no nutritious food is going to offset junk you've eaten. You've eaten it, there is no way back. Pick carefully. 
+* No good book is going to offset bad books consumption. Food analogy: no nutritious food is going to offset junk you've eaten. There is no way back so pick carefully. 
 
-* What a waste of time is when no understanding is made on every thought written by the author by labeling such a thorough activity as a "waste of time".
+* What a waste of time is when no understanding is made on every thought written by the author by labeling such an approach "waste of time".
 
 
 # Writing
+
 ## Techniques 
 
-* Each word we use is just a concept. When I say "phone", today I mean iPhone and in 1980 it would mean landline mechanical phone. Words, their meanings constantly flux in the mind. Imagine how they differ among invidivudals. To convey some thought as precise as possible express it in as many ways as possible. 
+Each word we use is just a concept. When I say "phone", today I mean iPhone and in 1980 it would mean landline mechanical phone. Words, their meanings constantly flux in the mind. Imagine how they differ among invidivudals. 
+
+* To convey some thought as precise as possible express it in as many ways as possible. 
 
 ## Next-up reading recommended
+
+1) Herbert Spencer's "First Principles"
