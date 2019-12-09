@@ -10,30 +10,32 @@ A few months ago I stumbled upon an Instagram ad pitching Helsinki (Finland) as 
 This went in hand with my opinion that competition for the human capital is going to increase between countries and cities. Goverments look into launching talent & startup visas, "innovator" and "exceptional talent" visas in the UK could be given as an example.
 
 The City of Helsinki objective is to:
-> to be among Europe's most intriguing locations for innovative start-up activities and to be Finland's best city for enterprises (https://www.hel.fi/uutiset/en/kaupunginkanslia/helsinki-to-be-the-most-functional-city-in-the-world).
+> to be among Europe's most intriguing locations for innovative start-up activities and to be Finland's best city for enterprises 
 
-I was eager to be a part of this first demo effort. Months passed, I even forgot about the fact I submitted the application form. I get an email in November:
+(https://www.hel.fi/uutiset/en/kaupunginkanslia/helsinki-to-be-the-most-functional-city-in-the-world).
+
+I was eager to be a part of this first demo effort. Months passed, I even forgot about the fact I submitted the application form. Sudden email in November:
 - Helsinki rep: Do you want to go? 
 - Me: Yes. 
 - Helsinki rep: accommodation.pdf, flight tickets.pdf, program.pdf
 
-## Program
+## The Program
 
 The city organized bunch of activities for each participant. Each activity was supported by a local Finnish tech company that inserted employees into the activity with an end goal of recruitment, while welcoming us to Finnish way of life and work culture.
 
 Some demo users arrived with their SOs. The program was considerate of that. It included parallel activities to get to know Helsinki and its way of life (e.g. touring schools).
 
 ### Main highlights
-### Day 1
+__Day 1__
 Tram-restaraunt tour across Helsinki, welcoming folks. 
 Dinner to get to know the crowd.
 
-### Day 2:
+__Day 2__
 City quests and adventures. 
 Flavour studio where people got to cook and experience Finnish food. 
 Finnish sauna.
 
-### Day 3:
+__Day 3__
 Free pass to SLUSH - I wanted to get to SLUSH in 2018, CaaS was a perfect opportunirty to experience the conference. 
 
 ## Crowd
@@ -55,7 +57,9 @@ If 1 person from our group (of 15) moves to Helsinki I would declare the CaaS pi
 Compared to London a feature I loved about Helisnki is that it is a calm city. Everything's slow and paced. Happiness goes up, stress goes down. Nature is accessible and incredible. People speak good English. 
 
 Goverment invests into English heavily:
-> "Helsinki develops high-quality English-language services with comprehensive service chains to help build an increasingly international, open and attractive city. “Good English-language services are a key part of our efforts to attract international workforce and talent” https://www.hel.fi/uutiset/en/kaupunginkanslia/helsinki-boosts-english-language-services
+> "Helsinki develops high-quality English-language services with comprehensive service chains to help build an increasingly international, open and attractive city. “Good English-language services are a key part of our efforts to attract international workforce and talent”
+
+https://www.hel.fi/uutiset/en/kaupunginkanslia/helsinki-boosts-english-language-services
 
 ### Drawbacks?
 
@@ -63,10 +67,8 @@ Bugs include challenging Finnish language if your goal is to settle down. Weird 
 
 ### Overall
 
-Great place for people with a family who want some calm, cold and nature. 
-
-Great place to run a startup if you are local. To move there from London? Better question. It's no for now.
-
-The demo - I loved the idea, I loved the execution. 
+- Great place for people with a family who want some calm, cold and nature;
+- Great place to run a startup if you are local. To move there from London? Better question. It's no for now;
+- The demo - I loved the idea, I loved the execution. 
 
 Thank you for these days, Helsinki!
