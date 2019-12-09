@@ -9,34 +9,34 @@ A few months ago I stumbled upon an Instagram ad pitching Helsinki (Finland) as 
 
 ![](/assets/caas.png)
 
-This went in hand with my confident stance that competition for the human capital is going to increase between countries and cities. Goverments keep launching talent & startup visas, "innovator" and "exceptional talent" visas in the UK could be given as an example.
+This went in hand with my confident stance that competition for the human capital is going to increase between countries and cities. Governments keep launching talent & startup visas, "innovator" and "exceptional talent" visas in the UK could be given as an example.
 
 I was eager to be a part of this first demo effort. Months passed, I even forgot about the fact I submitted the application form. Sudden email in November:
 
 ![](/assets/caas2.png)
 
-They paid flight tickets & accomodation. Here we go!
+They paid flight tickets & accommodation. Here we go!
 
 <br>
 
 ## The Program
 
-The city organized bunch of activities for each participant. Each activity was supported by a local Finnish tech company that inserted employees into the activity with an end goal of recruitment, while welcoming us to Finnish way of life and work culture.
+The city organized a bunch of activities for each participant. Each activity was supported by a local Finnish tech company that inserted employees into the activity with an end goal of recruitment while welcoming us to the Finnish way of life and work culture.
 
 Some demo users arrived with their SOs. The program was considerate of that. It included parallel activities to get to know Helsinki and its way of life (e.g. touring schools).
 
 ### Schedule (some of it)
 __Day 1__
-Tram-restaraunt tour across Helsinki, welcoming folks. 
+Tram-restaurant tour across Helsinki, welcoming folks. 
 Dinner to get to know the crowd.
 
 __Day 2__
 City quests and adventures. 
-Flavour studio where people got to cook and experience Finnish food. 
+Flavor studio where people got to cook and experience Finnish food. 
 Finnish sauna.
 
 __Day 3__
-Free pass to SLUSH - I wanted to get to SLUSH in 2018, CaaS was a perfect opportunirty to experience the conference. 
+Free pass to SLUSH - I wanted to get to SLUSH in 2018, CaaS was a perfect opportunity to experience the conference. 
 
 ![](/assets/slush.jpg)
 *Pic taken on SLUSH*
@@ -45,15 +45,15 @@ Free pass to SLUSH - I wanted to get to SLUSH in 2018, CaaS was a perfect opport
 
 ## Crowd
 
-There were 15 folks total who I got to experience Helsinki with. Geography is quite diverse: the US, Japan, Russia, Brazil, UK, Latvia.
+There were 15 folks total who I got to experience Helsinki with. Geography is quite diverse: the US, Japan, Russia, Brazil, the UK, Latvia.
 
-The profressional profile is mainly engineering: software architects, PHDs in CS, mobile and production engineers. 
+The professional profile is mainly engineering: software architects, PHDs in CS, mobile and production engineers. 
 
 <br>
 
 ## Conclusion
 
-### What is success?
+### What is the success?
 
 If 1 person from our group (of 15) moves to Helsinki I would declare the CaaS pilot a success. I would be interested to see how the program evolves for Helsinki and if other cities launch something similar. Kyiv or Tallin maybe? 
 
@@ -64,7 +64,7 @@ Compared to London a feature I loved about Helisnki is that it is a calm city. E
 [Goverment invests into English heavily:](https://www.hel.fi/uutiset/en/kaupunginkanslia/helsinki-boosts-english-language-services)
 > Helsinki develops high-quality English-language services with comprehensive service chains to help build an increasingly international, open and attractive city. Good English-language services are a key part of our efforts to attract international workforce and talent.
 
-Bugs include challenging Finnish language if your goal is to settle down. Weird climate - CaaS is northernmost capital of an EU member state. The whole city is expensive on par with London, but with less opportunities. 
+Bugs include the challenging Finnish language if your goal is to settle down. Weird climate - CaaS is the northernmost capital of an EU member state. The whole city is expensive on par with London, but with fewer opportunities. 
 
 ### Overall
 
