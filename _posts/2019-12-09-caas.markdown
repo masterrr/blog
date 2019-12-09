@@ -45,9 +45,7 @@ Free pass to SLUSH - I wanted to get to SLUSH in 2018, CaaS was a perfect opport
 
 ## Crowd
 
-There were 15 folks total who I got to experience Helsinki with.
-
-People geography is quite diverse: the US, Japan, Russia, Brazil, UK, Latvia.
+There were 15 folks total who I got to experience Helsinki with. Geography is quite diverse: the US, Japan, Russia, Brazil, UK, Latvia.
 
 The profressional profile is mainly engineering: software architects, PHDs in CS, mobile and production engineers. 
 
