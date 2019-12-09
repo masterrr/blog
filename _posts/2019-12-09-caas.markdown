@@ -7,6 +7,8 @@ categories: trips
 
 A few months ago I stumbled upon an Instagram ad pitching Helsinki (Finland) as "CaaS" (aka City as a Service), inviting first demo users to try it out. Huh - [https://helsinkiasaservice.com/](https://helsinkiasaservice.com/).
 
+![](/assets/caas.png)
+
 This went in hand with my opinion that competition for the human capital is going to increase between countries and cities. Goverments look into launching talent & startup visas, "innovator" and "exceptional talent" visas in the UK could be given as an example.
 
 The City of Helsinki objective is to:
@@ -15,9 +17,10 @@ The City of Helsinki objective is to:
 (https://www.hel.fi/uutiset/en/kaupunginkanslia/helsinki-to-be-the-most-functional-city-in-the-world).
 
 I was eager to be a part of this first demo effort. Months passed, I even forgot about the fact I submitted the application form. Sudden email in November:
-- Helsinki rep: Do you want to go? 
-- Me: Yes. 
-- Helsinki rep: accommodation.pdf, flight tickets.pdf, program.pdf
+
+![](/assets/caas2.png)
+
+They paid flight tickets & accomodation. 
 
 ## The Program
 
