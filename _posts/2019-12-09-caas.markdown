@@ -5,7 +5,7 @@ date:   2019-12-09 19:03:00 +0100
 categories: trips
 ---
 
-A few months ago I stumbled upon an Instagram ad pitching Helsinki (Finland) as "CaaS" (aka City as a Service), inviting first demo users to try it out. Huh.
+A few months ago I stumbled upon an Instagram ad pitching Helsinki (Finland) as "CaaS" (aka City as a Service), inviting first demo users to try it out. Huh - [https://helsinkiasaservice.com/](https://helsinkiasaservice.com/).
 
 This went in hand with my opinion that competition for the human capital is going to increase between countries and cities. Goverments look into launching talent & startup visas, "innovator" and "exceptional talent" visas in the UK could be given as an example.
 
