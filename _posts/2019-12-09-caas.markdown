@@ -11,11 +11,6 @@ A few months ago I stumbled upon an Instagram ad pitching Helsinki (Finland) as 
 
 This went in hand with my opinion that competition for the human capital is going to increase between countries and cities. Goverments look into launching talent & startup visas, "innovator" and "exceptional talent" visas in the UK could be given as an example.
 
-The City of Helsinki objective is to:
-> to be among Europe's most intriguing locations for innovative start-up activities and to be Finland's best city for enterprises 
-
-(https://www.hel.fi/uutiset/en/kaupunginkanslia/helsinki-to-be-the-most-functional-city-in-the-world).
-
 I was eager to be a part of this first demo effort. Months passed, I even forgot about the fact I submitted the application form. Sudden email in November:
 
 ![](/assets/caas2.png)
