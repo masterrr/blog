@@ -22,6 +22,8 @@ I was eager to be a part of this first demo effort. Months passed, I even forgot
 
 They paid flight tickets & accomodation. 
 
+<br>
+
 ## The Program
 
 The city organized bunch of activities for each participant. Each activity was supported by a local Finnish tech company that inserted employees into the activity with an end goal of recruitment, while welcoming us to Finnish way of life and work culture.
@@ -43,6 +45,7 @@ Free pass to SLUSH - I wanted to get to SLUSH in 2018, CaaS was a perfect opport
 
 ![](/assets/slush.jpg)
 
+<br>
 
 ## Crowd
 
@@ -51,6 +54,8 @@ There were 15 folks total who I got to experience Helsinki with.
 People geography is quite diverse: the US, Japan, Russia, Brazil, UK, Latvia.
 
 The profressional profile is mainly engineering: software architects, PHDs in CS, mobile and production engineers. 
+
+<br>
 
 ## Conclusion
 
