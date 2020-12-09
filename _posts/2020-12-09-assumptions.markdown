@@ -5,7 +5,7 @@ date:   2020-12-08 20:11:00 +0100
 categories: posts
 ---
 
-Every product created lies on assumptions. They must be true for the product to succeed. This is Step 1. 
+Every product created lies on assumptions. They must be true for the product to succeed. This is Step One. 
 
 Let's imagine the charity app, where one creates events, people join for money and all monies go towards the charity selected. 
 
