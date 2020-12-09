@@ -6,6 +6,29 @@ permalink: /about/
 
 ![img160](/assets/pic/biopic.jpg)
 
+### 2020
+
+### 2019
+
+Recognized as an Exceptional Talent in Digital Technology by the UK Government. 
+
+First trip to Colorado ⛰ and Hawaii  🏝
+
+### 2018
+
+First trip to Tuscany 🇮🇹 and first trip to Iceland 
+
+Helped build YBC in London.
+
+### 2017
+
+Joined Facebook UK in London. 
+
+###
+
+
+
+
 Dmitry Kurilo is a software engineer. He lives in London, UK.
 
 In 2013, co-founded ["Dry Fire Timer"](http://dryfiretimer.com/) which makes people become better at their sports. More than 1000 copies distributed, mostly in the US.
