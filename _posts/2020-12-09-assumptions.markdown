@@ -27,4 +27,4 @@ For example, 3rd assumption may be invalid for teens segment, valid for adults.
 
 Detailed, comprehensive product's assumption list with every one marked as True consistently as you work on the product is a first stepping stone for the product success.
 
-In case one has huge assumptions list, create a dependency tree where the parent assumption has children. If all children are True, parent automatically flips true. On the top level, you'll end up with 3–5 root assumptions. 
+In case one has huge assumptions list, create a dependency tree where the parent assumption has children. If all children are True, parent automatically flips True. On the top level, you'll end up with 3–5 root assumptions.
