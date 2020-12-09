@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Product Development: Assumptions"
-date:   2020-12-09 20:11:00 +0100
+date:   2020-12-08 20:11:00 +0100
 categories: posts
 ---
 
