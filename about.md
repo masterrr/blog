@@ -6,20 +6,20 @@ permalink: /about/
 
 ![img160](/assets/pic/biopic.jpg)
 
-Dmitry lives in London, UK.
+Lives in London, UK. Born in Minsk, Belarus.
 
-In 2013, co-founded ["Dry Fire Timer"](http://dryfiretimer.com/) which makes people become better at their sports. More than 1000 copies distributed, mostly in the US.
+First engineer at MSQRD (50M+ MAU), acquired by Facebook in 2016. 
 
-During 2014–2015 worked on mobile iOS and Android apps at [Toggl](https://toggl.com) and [Spappl](https://spappl.com).
+Engineer at Facebook, 2016–2021. 
 
-In 2016, Dmitrij is a first employee on the MSQRD team, overlooking iOS application development. This is shortly after the team won the Garage48 Hackathon in Minsk, where the prototype of the app was developed and demonstrated. 
+["Dry Fire Timer"](http://dryfiretimer.com/) co-founder. 
 
-MSQRD received immense traction and reached over 50 million downloads. During its peak popularity in February 2016, it had more than ten million MAU. [Acquired by Facebook in March 2016](https://techcrunch.com/2016/03/09/facebook-acquires-video-filter-app-msqrd-to-square-up-to-snapchat/).
+Other software engineer positions:
+[Toggl](https://toggl.com), Estonia, 2015
+[Touchappmedia](https://www.touchappmedia.com/), New York, 2014
 
-In 2016, entered and won the contest "Startup Battle 2016" with AI-powered app "Virtz".
+__Education__
+BSUIR, 2014–2018, Computer Science
 
-He moved to London in 2017 to engineer  AR/VR at Facebook. Graduated with a Bachelors in Computer Science the same year. MSQRD achieved its success while Dmitrij was still attending university.
-
-In 2019, Dmitrij is recognized as an Exceptional Talent in Digital Technology by the Tech Nation and the UK Government. 
-
-Hobbies include running, cycling and swimming.
+__Awards__
+In 2019, recognized as an Exceptional Talent in Digital Technology by the Tech Nation and the UK Government. 
