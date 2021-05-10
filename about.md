@@ -10,15 +10,15 @@ Lives in London, UK.
 
 Born in Minsk, Belarus.
 
-First engineer at MSQRD (50M+ MAU, acquired by Facebook), 2015.
+First engineer at MSQRD (50M+ MAU, acquired by Facebook).
 
-Software Engineer at Facebook, 2016–2021. 
+Software Engineer at Facebook, 2016–2021.
 
-Co-founder and Engineer at ["Dry Fire Timer"](http://dryfiretimer.com/), since 2013. 
+Co-founder and Engineer at ["Dry Fire Timer"](http://dryfiretimer.com/). 
 
 <br>
 
-__Work history__
+__More work history__
 
 [Toggl](https://toggl.com), Estonia, 2015;
 
