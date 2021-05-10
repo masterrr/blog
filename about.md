@@ -17,15 +17,15 @@ Engineer at Facebook, 2016–2021.
 <br>
 Past software engineer positions:
 
-[Toggl](https://toggl.com), Estonia, 2015
+[Toggl](https://toggl.com), Estonia, 2015;
 
-[Touchappmedia](https://www.touchappmedia.com/), New York, 2014
+[Touchappmedia](https://www.touchappmedia.com/), New York, 2014.
 
 <br>
 
 __Education__:
 
-BSUIR, 2014–2018, Computer Science
+BSUIR, 2014–2018, Computer Science.
 
 <br>
 
