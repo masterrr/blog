@@ -20,8 +20,10 @@ Other software engineer positions:
 
 [Touchappmedia](https://www.touchappmedia.com/), New York, 2014
 
-__Education__
+__Education__:
+
 BSUIR, 2014–2018, Computer Science
 
-__Awards__
+__Awards__:
+
 In 2019, recognized as an Exceptional Talent in Digital Technology by the Tech Nation and the UK Government. 
