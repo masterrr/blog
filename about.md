@@ -6,13 +6,11 @@ permalink: /about/
 
 ![img160](/assets/pic/biopic.jpg)
 
-London, UK – since 2016. Born in Minsk, Belarus.
-
 Engineer, entrepreneur, founder. 
 
-<br>
+London, UK.
 
-__Tech spirit__
+<br>
 
 First engineer at MSQRD. Acquired by Facebook in 2016. 50+ million MAU. 
 
