@@ -23,13 +23,11 @@ Co-founded ["Dry Fire Timer"](http://dryfiretimer.com/) in 2013.
 
 __Activities and more__
 
-I do invest, hit me up if you have a great digital technology company. 
+I invest, hit me up if you have a great digital technology company. 
 
-I hold a sports & medicine degree, I help build products in medtech.
+Holding a sports & medicine degree, I help build products in medtech.
 
-I advise small tech companies & startups, usually if they have an engineering problem. 
-
-I run workshops on software engineering and building teams, sharing my knowledge from years at Facebook and startups. 
+I advise small tech companies & startups, mainly on engineering problems. 
 
 As a hobby, I play music instruments including piano and accordeon. 
 
