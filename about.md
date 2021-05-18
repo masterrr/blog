@@ -6,23 +6,37 @@ permalink: /about/
 
 ![img160](/assets/pic/biopic.jpg)
 
-Lives in London, UK. 
+London, UK – since 2016. Born in Minsk, Belarus.
 
-Born in Minsk, Belarus.
-
-First engineer at MSQRD (50M+ MAU, acquired by Facebook).
-
-Software Engineer at Facebook, 2016–2021.
-
-Co-founder and Engineer at ["Dry Fire Timer"](http://dryfiretimer.com/). 
+Engineer, entrepreneur, founder. 
 
 <br>
 
-__More work history__
+__Tech spirit__
 
-[Toggl](https://toggl.com), Estonia, 2015;
+First engineer at MSQRD. Acquired by Facebook in 2016. 50+ million MAU. 
 
-[Touchappmedia](https://www.touchappmedia.com/), New York, 2014.
+Software Engineer at Facebook, 2016–2021. Has been building Spark AR platform. Includes IG/FB camera filters, creation tools on mobile and desktop. 
+
+[Toggl](https://toggl.com) engineer, Estonia, 2015;
+
+[Touchappmedia](https://www.touchappmedia.com/) engineer, New York, 2014.
+
+Co-founded ["Dry Fire Timer"](http://dryfiretimer.com/) in 2013. 
+
+<br>
+
+__Activities and more__
+
+I do invest, hit me up if you have a great digital technology company. 
+
+I hold a sports & medicine degree, I help build products in medtech.
+
+I advise small tech companies & startups, usually if they have an engineering problem. 
+
+I run workshops on software engineering and building teams, sharing my knowledge from years at Facebook and startups. 
+
+As a hobby, I play music instruments including piano and accordeon. 
 
 <br>
 
