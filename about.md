@@ -9,11 +9,9 @@ Engineer, entrepreneur, founder.
 
 London, UK.
 
-<br>
+First hire at MSQRD. Acquired by Facebook in 2016. 50+ million MAU. 
 
-First engineer at MSQRD. Acquired by Facebook in 2016. 50+ million MAU. 
-
-Software Engineer at Facebook, 2016–2021. Has been building Spark AR platform. Includes IG/FB camera filters, creation tools on mobile and desktop. 
+Engineer at Facebook, 2016–2021. Built Spark AR platform (IG/FB camera filters, creation tools on mobile and desktop). 
 
 [Toggl](https://toggl.com) engineer, Estonia, 2015;
 
