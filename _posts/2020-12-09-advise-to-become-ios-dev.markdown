@@ -19,6 +19,14 @@ Only then go platform-specific skills. They nicely stack on top. For iOS that in
 
 Making a great iOS engineering requires some product and UX skills (in my opinion), which means you have to know when to push back the design team. Or you own thinking. Being familiar with things like [Apple HIG](https://developer.apple.com/design/human-interface-guidelines/) is essential. 
 
-## Problem-solving
+## Solving Problems & Coding
 
-TBA
+You should be able to solve easy (beginners) and some medium (novices) coding platform-agnostic problems without much difficulty on resources like [leetcode](https://leetcode.com/problemset/all/). 
+
+This area ramps you up on being able to (1) tackle the problem and then (2) translate your thoughts into the code. These both are of enourmous importance. If you can solve the problem but can't translate it into the code and vice versa - work on it. You will feel the weaker area in a few weeks. 
+
+## Solving App Design Problems
+
+This now gets more iOS-specific. TBA.
+
+
