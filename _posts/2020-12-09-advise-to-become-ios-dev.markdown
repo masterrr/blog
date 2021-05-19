@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Letter to friends on how to become iOS Engineer"
+title:  "Letter to friends on becoming iOS Engineer"
 date:   2021-05-19 11:58:00 +0100
 categories: posts
 ---
