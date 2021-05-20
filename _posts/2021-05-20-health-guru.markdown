@@ -28,3 +28,5 @@ Everything chronic is not great for humans, including marathons and sitting the 
 ## Remove plastic
 
 Avoid plastic and use metal and glass where possible. Not good for environment, not good for humans. You would not eat plastic, why drink it? We all have it inside our bodies in 2021, so use sauna a lot. 
+
+<br><br>
