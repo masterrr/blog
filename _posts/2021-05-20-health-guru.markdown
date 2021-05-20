@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What do I add to become health-guru" 
+title:  "Guru of health: add or remove" 
 date:   2021-05-20 21:28:00 +0100
 categories: posts
 ---
