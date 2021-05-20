@@ -14,9 +14,11 @@ Then, the important question - what is better health? What are you optimizing fo
 ## Remove > add
 
 __Remove meals__
+
 No need to take extra curcumin capsule if you want to live longer and in clarity. Instead of taking supplements and adding more food, remove food and stick to hunger. Hunger is good for us. For example, it increases insulin sensitivity which is a huge marker for longevity and general health. 
 
 __Remove sugar__
+
 Before adding supplements, benefits from removing added and most natural sugar is immense. Far better than any supplements on the market. 
 
 ## Variability > Chronicity  
