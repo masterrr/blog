@@ -18,3 +18,11 @@ No need to take extra curcumin capsule if you want to live longer and in clarity
 
 __Remove sugar__
 Before adding supplements, benefits from removing added and most natural sugar is immense. Far better than any supplements on the market. 
+
+## Variability > Chronicity  
+
+Everything chronic is not great for humans, including marathons and sitting the whole day. Introduce variablility in your lifestyle. Sprint for 2 minutes with all your effort, rest for minutes. Tolerate extremes. Same goes for the life environment. We lose variability everywhere as we age, from the heart rate to the exercise dynamics. 
+
+## Remove plastic
+
+Avoid plastic and use metal and glass where possible. Not good for environment, not good for humans. You would not eat plastic, why drink it? We all have it inside our bodies in 2021, so use sauna a lot. 
